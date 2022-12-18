@@ -1,0 +1,107 @@
+body
+{
+    background: #f9f9ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+header a{
+    color: black;
+    text-decoration: none;
+}
+
+div.d-flex{
+    border-bottom: 2px solid black;
+}
+.container .headerduoi .col-md-4.col-12{
+    position:absolute;
+}
+.container .headerduoi img{
+    height: 563.750px;
+}
+.img-fluid.howtomake{
+    height: 500px !important;
+}
+.text a{
+    background: #f9f9ff;
+}
+.text h3{
+    padding-top: 50%;
+}
+.text .p1{
+    padding-top: 30%;
+}
+.text1 {
+    position: absolute;
+}
+.text1 h3{
+    padding-top: 60%;
+}
+.text5-white
+{
+    width: 80% !important;
+}
+.text6-white
+{
+    width: 90% !important;
+}
+.text7{
+    padding-top: 40% !important;
+}
+.content .col-md-6{
+    border-bottom: 2px solid black;
+}
+.content a{
+    text-decoration: none;
+    border: 2px solid black;
+    border-bottom: 0px;
+}
+.content .text2{
+    position: absolute;
+}
+.content .text2 div{
+    padding-top: 50%;
+    width: 85%;
+}
+.text3{
+    text-align: center;
+}
+.text3 a{
+    display: block;
+    margin-bottom: 10px;
+}
+.content .categories a{
+    display: block;
+}
+.content a.Subscrible:hover{
+    color: gray !important;
+    border-color: gray !important;
+    
+ }
+.border-0.text.border-bottom.border-2.border-dark
+{
+    background: #f9f9ff;
+}
+.border-0.search{
+    background: #f9f9ff;
+}
+.border-0.search1{
+    background: #ffffff;
+}
+.footertren{
+    background: #495057;
+}
+.py-3.text-white
+{
+    font-size: 12px;
+}
+footer p.danhsach a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-right: 10px;
+    font-size: 13px;
+}
+
+
